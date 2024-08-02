@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/c3cedf1e-264f-43de-9706-91bf2d71102e
+![Github Banner](https://github.com/user-attachments/assets/0af8f658-643a-4b88-8894-5e1e1837069f)
 
 <img align='right' src='![octocat-anime](https://github.com/user-attachments/assets/a1c9829f-9cc5-4cf2-b4be-bbadc5113715)' width='150"'>
 
