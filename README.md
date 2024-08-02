@@ -1,9 +1,6 @@
 ...is talking this about me.
-<!--
-**Be00wulf/Be00wulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 public class ArtisticBalance {
-
     /**
      * A method to balance your creative tasks and personal projects.
      *
@@ -16,7 +13,6 @@ public class ArtisticBalance {
         String[] artisticElements = {
             "[Palette]", "[Brush]", "[Mask]", "[Music]"
         };
-
         // Creative advice based on theme
         String[] creativeAdvice = {
             "Embrace your inner artist and let your creativity flow!",
@@ -24,12 +20,10 @@ public class ArtisticBalance {
             "Reflect on your past works to inspire your next masterpiece.",
             "Find beauty in every challenge you face."
         };
-
         // Themes available
         String[] themes = {
             "Inspiration", "Experimentation", "Reflection", "Challenge"
         };
-
         // Determine the index of the theme
         int themeIndex = -1;
         for (int i = 0; i < themes.length; i++) {
@@ -38,19 +32,15 @@ public class ArtisticBalance {
                 break;
             }
         }
-
         // Handle invalid theme
         if (themeIndex == -1) {
             return "Invalid theme! Please choose between 'Inspiration', 'Experimentation', 'Reflection', or 'Challenge'.";
         }
-
         // Select artistic element and advice
         String artisticElement = artisticElements[themeIndex % artisticElements.length];
         String advice = creativeAdvice[themeIndex % creativeAdvice.length];
-
         return String.format("Task to complete: %s %s. %nAdvice: %s", task, artisticElement, advice);
     }
-
     public static void main(String[] args) {
         // Example usage
         String message = balanceCreativeTasks("Complete painting project", "Inspiration");
