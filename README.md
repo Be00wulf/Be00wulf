@@ -1,4 +1,4 @@
-<img src="![MAJO LINEAS](https://github.com/user-attachments/assets/c3cedf1e-264f-43de-9706-91bf2d71102e)" width="900"></a>
+https://github.com/user-attachments/assets/c3cedf1e-264f-43de-9706-91bf2d71102e
 
 <img align='right' src='![octocat-anime](https://github.com/user-attachments/assets/a1c9829f-9cc5-4cf2-b4be-bbadc5113715)' width='150"'>
 
