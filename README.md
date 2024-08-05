@@ -1,4 +1,4 @@
-### Playing ⏯️
+> Note: ...is talking this about me :smile:
 
 <div style="display: flex; justify-content: center;">
   <table style="border: none;">
@@ -14,9 +14,6 @@
     </tr>
   </table>
 </div>
-
-
-> Note: ...is talking this about me :smile:
 
 Hi, I'm [Majo](https://www.instagram.com/planito.banana?igsh=MXV6cjM1enVocDg1cw==) an artist and IT student from 
 [Totonicapán, Guatemala](https://www.google.com/maps/place/Totonicap%C3%A1n/@14.9134296,-91.3641048,15.75z/data=!4m15!1m8!3m7!1s0x858ea40c21b85925:0xfdd4561134ae9faf!2sTotonicap%C3%A1n!3b1!8m2!3d14.9173402!4d-91.3613923!16zL20vMDM2cTIx!3m5!1s0x858ea40c21b85925:0xfdd4561134ae9faf!8m2!3d14.9173402!4d-91.3613923!16zL20vMDM2cTIx?entry=ttu) :guatemala:
