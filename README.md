@@ -1,8 +1,20 @@
 ### Playing ⏯️
 
-[![Spotify](https://pr3novatorem-7zb2.vercel.app/api/spotify)](https://open.spotify.com/user/31qrfcn4zsw23an2cq4yw64mdw4u)
+<div style="display: flex; justify-content: center;">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <a href="https://open.spotify.com/user/31qrfcn4zsw23an2cq4yw64mdw4u">
+          <img src="https://pr3novatorem-7zb2.vercel.app/api/spotify" alt="Spotify Now Playing" />
+        </a>
+      </td>
+      <td style="border: none;">
+        <img src="https://github.com/user-attachments/assets/704d9a28-6aa3-4239-9382-d999d17db77f" alt="octocat-anime" width="300"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img align='right' src='![octocat-anime](https://github.com/user-attachments/assets/a1c9829f-9cc5-4cf2-b4be-bbadc5113715)' width='150"'>
 
 > Note: ...is talking this about me :smile:
 
