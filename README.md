@@ -1,4 +1,6 @@
-![Github Banner](https://github.com/user-attachments/assets/0af8f658-643a-4b88-8894-5e1e1837069f)
+### Playing ⏯️::
+
+[![Spotify](https://novatorem-one-sage.vercel.app/api/spotify)](https://open.spotify.com/user/31qrfcn4zsw23an2cq4yw64mdw4u?si=tB43XcN4S2-nl6kphAgd1w)
 
 <img align='right' src='![octocat-anime](https://github.com/user-attachments/assets/a1c9829f-9cc5-4cf2-b4be-bbadc5113715)' width='150"'>
 
@@ -7,9 +9,7 @@
 Hi, I'm [Majo](https://www.instagram.com/planito.banana?igsh=MXV6cjM1enVocDg1cw==) an artist and IT student from 
 [Totonicapán, Guatemala](https://www.google.com/maps/place/Totonicap%C3%A1n/@14.9134296,-91.3641048,15.75z/data=!4m15!1m8!3m7!1s0x858ea40c21b85925:0xfdd4561134ae9faf!2sTotonicap%C3%A1n!3b1!8m2!3d14.9173402!4d-91.3613923!16zL20vMDM2cTIx!3m5!1s0x858ea40c21b85925:0xfdd4561134ae9faf!8m2!3d14.9173402!4d-91.3613923!16zL20vMDM2cTIx?entry=ttu) :guatemala:
 
-### Playing 🎵:
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+![Github Banner](https://github.com/user-attachments/assets/0af8f658-643a-4b88-8894-5e1e1837069f)
 
 ## Life:
 
