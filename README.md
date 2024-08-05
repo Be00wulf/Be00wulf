@@ -9,7 +9,7 @@
         </a>
       </td>
       <td style="border: none;">
-        <img src="https://github.com/user-attachments/assets/704d9a28-6aa3-4239-9382-d999d17db77f" alt="octocat-anime" width="150"/>
+        <img src="https://github.com/user-attachments/assets/704d9a28-6aa3-4239-9382-d999d17db77f" alt="octocat-anime" width="300"/>
       </td>
     </tr>
   </table>
