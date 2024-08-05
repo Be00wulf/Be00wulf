@@ -1,6 +1,6 @@
-### Playing ⏯️::
+### Playing ⏯️
 
-[![Spotify](https://novatorem-one-sage.vercel.app/api/spotify)](https://open.spotify.com/user/31qrfcn4zsw23an2cq4yw64mdw4u?si=tB43XcN4S2-nl6kphAgd1w)
+[![Spotify](https://novatorem-one-sage.vercel.app/api/spotify)](https://open.spotify.com/user/31qrfcn4zsw23an2cq4yw64mdw4u)
 
 <img align='right' src='![octocat-anime](https://github.com/user-attachments/assets/a1c9829f-9cc5-4cf2-b4be-bbadc5113715)' width='150"'>
 
