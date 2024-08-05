@@ -9,7 +9,7 @@
         </a>
       </td>
       <td style="border: none;">
-        <img src="https://github.com/user-attachments/assets/704d9a28-6aa3-4239-9382-d999d17db77f" alt="octocat-anime" width="300"/>
+        <img src="https://github.com/user-attachments/assets/704d9a28-6aa3-4239-9382-d999d17db77f" alt="octocat-anime" width="150"/>
       </td>
     </tr>
   </table>
@@ -18,7 +18,25 @@
 Hi, I'm [Majo](https://www.instagram.com/planito.banana?igsh=MXV6cjM1enVocDg1cw==) an artist and IT student from 
 [Totonicapán, Guatemala](https://www.google.com/maps/place/Totonicap%C3%A1n/@14.9134296,-91.3641048,15.75z/data=!4m15!1m8!3m7!1s0x858ea40c21b85925:0xfdd4561134ae9faf!2sTotonicap%C3%A1n!3b1!8m2!3d14.9173402!4d-91.3613923!16zL20vMDM2cTIx!3m5!1s0x858ea40c21b85925:0xfdd4561134ae9faf!8m2!3d14.9173402!4d-91.3613923!16zL20vMDM2cTIx?entry=ttu) :guatemala:
 
-![Github Banner](https://github.com/user-attachments/assets/0af8f658-643a-4b88-8894-5e1e1837069f)
+<div style="position: relative; display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/0af8f658-643a-4b88-8894-5e1e1837069f" alt="Majo banner" style="width: 100%;"/>
+
+  <div style="position: absolute; top: 10px; left: 10px; display: flex; gap: 10px;">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-baquiax-rodr%C3%ADguez-su?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="width: 40px;"/>
+    </a>
+    <!-- TikTok -->
+    <a href="https://www.tiktok.com/@planito.banana?_t=8oV7VbQwrW2&_r=1">
+      <img src="https://img.icons8.com/fluent/48/000000/tiktok.png" alt="TikTok" style="width: 40px;"/>
+    </a>
+    <!-- Instagram -->
+    <a href="https://www.instagram.com/planito.banana?igsh=MXV6cjM1enVocDg1cw==" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" style="width: 40px;"/>
+    </a>
+  </div>
+</div>
+
 
 ## Life:
 
