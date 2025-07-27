@@ -82,3 +82,8 @@ public class ArtisticBalance {
     }
 }
  ```
+
+### :zap: Recent activity 
+<!-- START SECTION ACTIVITY -->
+
+<!-- END SECTION ACTIVITY -->
