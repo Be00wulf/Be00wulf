@@ -6,12 +6,10 @@ Hi, I'm [Majo](https://www.instagram.com/planito.banana?igsh=MXV6cjM1enVocDg1cw=
 ## Microsoft Learn 2025
 
 <p align="center">
-  <a href="https://learn.microsoft.com/api/achievements/share/es-es/MKDIRCherry-7810/8ZS8ZVJW?sharingId=1A4D21BBD0FDF341">
-    <img src="https://learn.microsoft.com/training/achievements/8-learn-continuous-integration-with-github-actions.svg" alt="Insignia de GitHub Actions" />
+  <a href="https://be00wulf.github.io/mj-ba.github.io/">
+    Landing and more...
   </a>
-  <a href="https://learn.microsoft.com/api/achievements/share/es-es/MKDIRCherry-7810/ZBHZBJ92?sharingId=1A4D21BBD0FDF341">
-    <img src="https://learn.microsoft.com/training/achievements/github/communicate-using-markdown.svg" alt="Insignia de Markdown" />
-  </a>
+
 </p>
 
 | Currently Listening | Mood |
