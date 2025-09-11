@@ -1,15 +1,13 @@
-Hi, I'm [Majo](https://www.instagram.com/planito.banana?igsh=MXV6cjM1enVocDg1cw==) an artist and IT student from
-[Suchitepéquez, Guatemala](https://www.google.com/maps/place/Suchitep%C3%A9quez/@14.3752308,-91.7104978,10z/data=!3m1!4b1!4m6!3m5!1s0x85892c4c38a67de9:0xe5ee76e8a509c4ec!8m2!3d14.4215982!4d-91.4048249!16zL20vMDM2cF8w?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D) :guatemala:
+# Hi, I'm Majo an artist and IT student from [Suchitepéquez, Guatemala](https://www.google.com/maps/place/Suchitep%C3%A9quez/@14.3752308,-91.7104978,10z/data=!3m1!4b1!4m6!3m5!1s0x85892c4c38a67de9:0xe5ee76e8a509c4ec!8m2!3d14.4215982!4d-91.4048249!16zL20vMDM2cF8w?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D) :guatemala:
 
 > Note: **"Never stop learning"** :smile:
 
-## Microsoft Learn 2025
+### Watch my Projects Documentation and Landing Page
 
 <p align="center">
-  <a href="https://be00wulf.github.io/mj-ba.github.io/">
-    Landing and more...
+  <a href="https://be00wulf.github.io/mj-ba.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🔺-Landing%20Page%20&%20More-red" alt="Landing Page">
   </a>
-
 </p>
 
 | Currently Listening | Mood |
@@ -17,18 +15,6 @@ Hi, I'm [Majo](https://www.instagram.com/planito.banana?igsh=MXV6cjM1enVocDg1cw=
 | [![Spotify](https://pr3novatorem-7zb2.vercel.app/api/spotify)](https://open.spotify.com/user/31qrfcn4zsw23an2cq4yw64mdw4u) | <img src="https://github.com/user-attachments/assets/704d9a28-6aa3-4239-9382-d999d17db77f" alt="octocat-anime" width="300"/> |
 
 <img src="https://github.com/user-attachments/assets/0af8f658-643a-4b88-8894-5e1e1837069f" alt="Majo banner" width="100%"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-baquiax-rodr%C3%ADguez-su" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
-  </a>
-  <a href="https://www.tiktok.com/@planito.banana?_t=8oV7VbQwrW2&_r=1">
-    <img src="https://img.icons8.com/fluent/48/000000/tiktok.png" alt="TikTok" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/planito.banana?igsh=MXV6cjM1enVocDg1cw==" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40"/>
-  </a>
-</p>
 
 ## Life:
 
