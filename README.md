@@ -2,11 +2,11 @@
 
 > Note: **"Never stop learning"** :smile:
 
-### Watch my Projects Documentation and Landing Page
+### Visit my Projects Documentation and Landing Page
 
 <p align="center">
   <a href="https://be00wulf.github.io/mj-ba.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🔺-Landing%20Page%20&%20More-red" alt="Landing Page">
+    <img src="https://raw.githubusercontent.com/Be00wulf/Be00wulf/main/img/gif%20landing.gif" alt="Landing Page" width="300px">
   </a>
 </p>
 
